@@ -1,6 +1,7 @@
 IndexMaintenanceScript.sql
 
 Enterprise SQL Server index maintenance with multi-database support and automated email reporting. T-SQL script for tables and indexed views with SQL Server Agent integration.
+More: <a href ="https://www.piwonka.cc/Blog/Detail/32/enterprise-sql-server-index-maintenance-multi-database-automation-with-email-reporting">Enterprise SQL Server Index Maintenance: Multi-Database Automation with Email Reporting</a>
 
 
 
